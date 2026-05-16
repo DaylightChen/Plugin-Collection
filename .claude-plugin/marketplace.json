@@ -1,0 +1,19 @@
+{
+  "name": "daylightchen-plugin-collection",
+  "description": "A collection of plugins developed by DaylightChen",
+  "owner": {
+    "name": "DaylightChen"
+  },
+  "plugins": [
+    {
+      "name": "phased-dev",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/DaylightChen/phased-dev.git",
+        "ref": "main",
+        "sha": "841bb993bed9dbe282784a8ff9e680e9cd136429"
+      },
+      "description": "Agent-driven phased development workflow built on a scope abstraction"
+    }
+  ]
+}
